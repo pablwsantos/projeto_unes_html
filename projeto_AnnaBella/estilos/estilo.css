@@ -1,0 +1,41 @@
+body {
+    background: #d2d2c1 url("../imagens/fundo.png");
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#principal {
+    width: 900px;
+    margin: auto;
+}
+/* CONFIGURAÇÕES DE MENU */
+#menu {
+    background-color: #c0b7b7;
+    padding: 16px;
+}
+#menu a {
+    color: #252323;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+}
+/* FIM DO MENU  */
+
+
+#conteudo {
+    background: #c7c7c7;
+    color: #252323;
+    padding: 15px;
+}
+
+#conteudo h3{
+    font-weight:900;
+    color: #7a6e6e
+}
+
+#rodape {
+     text-align: center;
+}
+
+.bordasimg {
+    border: 5px #797373 solid ;
+}
